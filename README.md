@@ -103,28 +103,33 @@ I'm a passionate **problem solver** and **web developer** from **Dhaka, Banglade
 
 ---
 
-## 📌 Pinned Projects
+## 🌟 Popular Projects
+
+<p align="center">
+  <em>A collection of my most notable projects showcasing full-stack development capabilities</em>
+</p>
 
 <div align="center">
 
-<a href="[https://github.com/Aziz-Ullah-Tarek/tourism-website](https://github.com/Aziz-Ullah-Tarek/CSEJnU_Portal-Client)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=tourism-website&theme=tokyonight&hide_border=true" alt="Tourism Website"/>
+<a href="https://github.com/Aziz-Ullah-Tarek/CSEJnU_Portal-Client">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=CSEJnU_Portal-Client&theme=tokyonight&hide_border=true" alt="CSEJNU Portal Client"/>
 </a>
 
-<a href="[https://github.com/Aziz-Ullah-Tarek/e-commerce-platform](https://github.com/Aziz-Ullah-Tarek/CSEJNU_Portal-Server)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=e-commerce-platform&theme=tokyonight&hide_border=true" alt="E-Commerce Platform"/>
+<a href="https://github.com/Aziz-Ullah-Tarek/CSEJNU_Portal-Server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=CSEJNU_Portal-Server&theme=tokyonight&hide_border=true" alt="CSEJNU Portal Server"/>
 </a>
 
-<a href="[https://github.com/Aziz-Ullah-Tarek/problem-solving](https://github.com/Aziz-Ullah-Tarek/HomeNest-Client)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=problem-solving&theme=tokyonight&hide_border=true" alt="Problem Solving"/>
+<a href="https://github.com/Aziz-Ullah-Tarek/HomeNest-Client">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=HomeNest-Client&theme=tokyonight&hide_border=true" alt="HomeNest Client"/>
 </a>
-<a href="[https://github.com/Aziz-Ullah-Tarek/problem-solving](https://github.com/Aziz-Ullah-Tarek/HomeNest-Server)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=problem-solving&theme=tokyonight&hide_border=true" alt="Problem Solving"/>
+
+<a href="https://github.com/Aziz-Ullah-Tarek/HomeNest-Server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=HomeNest-Server&theme=tokyonight&hide_border=true" alt="HomeNest Server"/>
 </a>
 
 </div>
 
-> **Note:** These cards will automatically display your actual pinned repositories once they exist in your GitHub account. Make sure to pin your best projects from your profile!
+> **Note:** These cards showcase my most popular projects. Click on any card to explore the repository and see the code!
 
 ---
 
@@ -174,11 +179,25 @@ I believe in the power of technology to solve real-world problems. Whether it's 
   
   I'm actively seeking opportunities to contribute to innovative projects and grow as a developer. If you're looking for someone who's passionate about technology and eager to make an impact, let's connect!
   
-  <br/>
+</div>
+
+---
+
+<div align="center">
   
-  ![Snake animation](https://github.com/Aziz-Ullah-Tarek/Aziz-Ullah-Tarek/blob/output/github-contribution-grid-snake.svg)
+  ### 🐍 Contribution Activity
   
-  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aziz-Ullah-Tarek/Aziz-Ullah-Tarek/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aziz-Ullah-Tarek/Aziz-Ullah-Tarek/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Aziz-Ullah-Tarek/Aziz-Ullah-Tarek/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
+
+---
+
+<div align="center">
   
   **Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀**
   
