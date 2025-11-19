@@ -107,15 +107,18 @@ I'm a passionate **problem solver** and **web developer** from **Dhaka, Banglade
 
 <div align="center">
 
-<a href="https://github.com/Aziz-Ullah-Tarek/tourism-website">
+<a href="[https://github.com/Aziz-Ullah-Tarek/tourism-website](https://github.com/Aziz-Ullah-Tarek/CSEJnU_Portal-Client)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=tourism-website&theme=tokyonight&hide_border=true" alt="Tourism Website"/>
 </a>
 
-<a href="https://github.com/Aziz-Ullah-Tarek/e-commerce-platform">
+<a href="[https://github.com/Aziz-Ullah-Tarek/e-commerce-platform](https://github.com/Aziz-Ullah-Tarek/CSEJNU_Portal-Server)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=e-commerce-platform&theme=tokyonight&hide_border=true" alt="E-Commerce Platform"/>
 </a>
 
-<a href="https://github.com/Aziz-Ullah-Tarek/problem-solving">
+<a href="[https://github.com/Aziz-Ullah-Tarek/problem-solving](https://github.com/Aziz-Ullah-Tarek/HomeNest-Client)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=problem-solving&theme=tokyonight&hide_border=true" alt="Problem Solving"/>
+</a>
+<a href="[https://github.com/Aziz-Ullah-Tarek/problem-solving](https://github.com/Aziz-Ullah-Tarek/HomeNest-Server)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=problem-solving&theme=tokyonight&hide_border=true" alt="Problem Solving"/>
 </a>
 
