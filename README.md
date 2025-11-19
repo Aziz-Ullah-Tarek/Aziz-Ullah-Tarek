@@ -1,13 +1,15 @@
-# Hi, I'm Aziz Ullah Tarek 👋
-
-## About Me<div align="center">
-  <img src="Banner.png" alt="Aziz Ullah Tarek - Full Stack Developer" width="100%"/>
+<div align="center">
+  <img src="Banner.png" alt="Aziz Ullah Tarek - Frontend Developer & Problem Solver" width="100%"/>
 </div>
 
-<h1 align="center">Hi, I'm Aziz Ullah Tarek 👋</h1>
+<h1 align="center">Hi there, I'm Aziz Ullah Tarek 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | MERN Stack Specialist | Problem Solver</strong>
+  <strong>Frontend Developer | CSE Student | Tech Enthusiast | Problem Solver</strong>
+</p>
+
+<p align="center">
+  📍 Dhaka, Bangladesh | 📧 azizullaht2002@gmail.com
 </p>
 
 <div align="center">
@@ -20,131 +22,165 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **MERN Stack Developer** with a strong foundation in building scalable and professional web applications. My journey in software development is driven by a desire to solve complex problems and deliver impactful solutions. Currently, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and have hands-on experience creating robust e-commerce platforms.
+I'm a passionate web developer and problem solver who loves exploring new technologies and building impactful solutions. My journey in software development is driven by curiosity and a constant desire to learn and grow. Whether it's crafting elegant user interfaces or solving algorithmic challenges, I'm always up for the challenge.
 
-- 🔭 I'm currently working on **professional e-commerce sites and full-stack applications**
-- 🌱 I'm continuously learning **Golang and Machine Learning**
-- 💡 I enjoy tackling **coding challenges on LeetCode** to sharpen my analytical skills
-- 🎯 I'm focused on delivering **impactful and scalable solutions**
-- 💬 Ask me about **MERN Stack, Web Development, or Software Architecture**
+- 🚀 Currently working on **Next.js and React** projects including a tourism website
+- 🌱 Exploring **Next.js, Go, and Golang** for future projects
+- 💡 Building expertise in **Machine Learning** to expand my technical horizons
+- 🎯 Active problem solver on **Codeforces** and **LeetCode** (specializing in C++)
+- 🎨 Designing intuitive interfaces with **Figma** and **Pixso**
+- 💻 Experienced with **MySQL** (Workbench, XAMPP) for database management
+- 📚 Always curious about exploring new technologies and best practices
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-### Backend
+### Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
-
-### Database
-<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### Other Skills
+### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Responsive Design"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+</p>
+
+### Design & Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 </div>
 
 ---
 
-## 🎯 What I Do
-
-- ✨ Develop professional **e-commerce sites** and **full-stack applications** using the MERN stack
-- 🧩 Tackle **coding challenges** on platforms like LeetCode to enhance problem-solving skills
-- 📚 Continuously learn and explore new technologies such as **Golang** and **Machine Learning**
-- 🔐 Implement robust **authentication & authorization** systems
-- 🌐 Build **RESTful APIs** and integrate third-party services
-- 📱 Create **responsive and user-friendly** web interfaces
-
----
-
-## 🚀 Future Goals
-
-- 🎓 Master **Golang** for backend development
-- 🤖 Gain proficiency in **Machine Learning** and apply it to real-world projects
-- 🌟 Contribute to **open-source projects** and collaborate with the developer community
-- 📈 Build innovative solutions that make a positive impact
-
----
-
-## 📫 Let's Connect
+## 🌐 Connect with Me
 
 <div align="center">
   
-  I am always eager to collaborate on interesting projects and connect with fellow developers. Feel free to reach out!
+<a href="https://github.com/Aziz-Ullah-Tarek" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/aziz-ullah-tarek" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/share/1Lp9tSioyt/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:azizullaht2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://twitter.com/azizullahtarek" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
   
+  <img src="https://github-readme-stats.vercel.app/api?username=Aziz-Ullah-Tarek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Ullah-Tarek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz-Ullah-Tarek&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aziz-Ullah-Tarek&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/Aziz-Ullah-Tarek/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=project-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
+</a>
+<a href="https://github.com/Aziz-Ullah-Tarek/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=project-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
+</a>
+
+<a href="https://github.com/Aziz-Ullah-Tarek/project-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=project-3&theme=tokyonight&hide_border=true" alt="Project 3"/>
+</a>
+<a href="https://github.com/Aziz-Ullah-Tarek/project-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=project-4&theme=tokyonight&hide_border=true" alt="Project 4"/>
+</a>
+
+</div>
+
+---
+
+## 💼 What I Bring to the Table
+
+- 🎨 **Frontend Excellence**: Creating responsive, user-friendly interfaces with modern frameworks
+- 🧩 **Problem Solving**: Strong analytical skills honed through competitive programming
+- 🚀 **Full Stack Capability**: End-to-end development from database design to deployment
+- 📱 **Modern Tech Stack**: Proficient in Next.js, React, Node.js, and more
+- 🎯 **Continuous Learning**: Always exploring new technologies and staying current with industry trends
+- 🤝 **Team Collaboration**: Experience working on collaborative projects and version control
+
+---
+
+## 🎯 Future Roadmap
+
+- 🔥 Master **Go and Golang** for high-performance backend systems
+- 🤖 Dive deeper into **Machine Learning** and AI applications
+- 🌟 Contribute to **open-source projects** and give back to the community
+- 📱 Build production-ready applications that solve real-world problems
+- 🏆 Continue improving competitive programming skills on Codeforces and LeetCode
+
+---
+
+<div align="center">
+  
+  ### 💡 "Code is like humor. When you have to explain it, it's bad!" – Cory House
+  
+  <sub>⭐ Open to freelance opportunities, collaborations, and full-time positions</sub>
+  
+  <sub>💬 Feel free to reach out if you want to discuss tech, collaborate on projects, or just chat!</sub>
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>💼 Open to opportunities and collaborations</sub>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Aziz-Ullah-Tarek/count.svg)
+  
+  **Thank you for visiting my profile! Let's build something amazing together! 🚀**
+
 </div>
-
-I am a passionate MERN stack developer with a strong foundation in building scalable and professional web applications. My journey in software development is driven by a desire to solve complex problems and deliver impactful solutions. Currently, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and have hands-on experience creating robust e-commerce platforms.
-
-## Skills
-
-- **Languages & Frameworks:** JavaScript, React, Node.js, Express.js, MongoDB
-- **Web Development:** Responsive design, RESTful APIs, Authentication & Authorization
-- **Problem Solving:** Active problem solver on LeetCode
-- **Other Interests:** Exploring Golang and Machine Learning for future projects
-
-## What I Do
-
-- Develop professional e-commerce sites and full-stack applications using MERN
-- Tackle coding challenges on platforms like LeetCode to sharpen my analytical skills
-- Continuously learn new technologies, such as Golang and machine learning, to expand my expertise
-
-## Future Goals
-
-- Master Golang for backend development
-- Gain proficiency in machine learning and apply it to real-world projects
-
-<!--
-## Featured Projects
-
-[Optional: Add links to your top GitHub repositories or portfolio projects here]
--->
-
-<!--
-## Connect with Me
-
-[Optional: Add your LinkedIn, Twitter, portfolio, or LeetCode profile links here]
--->
-
----
-
-Thank you for visiting my profile! I am always eager to collaborate on interesting projects and connect with fellow developers.## Hi there 👋
-
-<!--
-**Aziz-Ullah-Tarek/Aziz-Ullah-Tarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
