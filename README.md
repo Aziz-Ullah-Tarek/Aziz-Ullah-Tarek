@@ -1,18 +1,21 @@
-# Hi, I'm Aziz Ullah Tarek 👋
-
-## About Me<div align="center">
-  <img src="Banner.png" alt="Aziz Ullah Tarek - Full Stack Developer" width="100%"/>
+<div align="center">
+  <img src="Banner.png" alt="Aziz Ullah Tarek - Frontend Developer & Problem Solver" width="100%"/>
 </div>
 
-<h1 align="center">Hi, I'm Aziz Ullah Tarek 👋</h1>
+<h1 align="center">Hi there, I'm Aziz Ullah Tarek 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | MERN Stack Specialist | Problem Solver</strong>
+  <strong>Frontend Developer | CSE Student | Tech Enthusiast</strong>
+</p>
+
+<p align="center">
+  <em>A passionate problem solver and web developer, always curious about exploring new technologies</em>
 </p>
 
 <div align="center">
   
   [![Profile Views](https://komarev.com/ghpvc/?username=Aziz-Ullah-Tarek&color=blue&style=flat-square)](https://github.com/Aziz-Ullah-Tarek)
+  [![GitHub followers](https://img.shields.io/github/followers/Aziz-Ullah-Tarek?label=Followers&style=social)](https://github.com/Aziz-Ullah-Tarek)
   
 </div>
 
@@ -20,131 +23,160 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **MERN Stack Developer** with a strong foundation in building scalable and professional web applications. My journey in software development is driven by a desire to solve complex problems and deliver impactful solutions. Currently, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and have hands-on experience creating robust e-commerce platforms.
+I'm a passionate **problem solver** and **web developer** from **Dhaka, Bangladesh**, always curious about exploring new technologies and building impactful solutions. Currently, I'm focused on modern web development and competitive programming, constantly pushing myself to learn and grow.
 
-- 🔭 I'm currently working on **professional e-commerce sites and full-stack applications**
-- 🌱 I'm continuously learning **Golang and Machine Learning**
-- 💡 I enjoy tackling **coding challenges on LeetCode** to sharpen my analytical skills
-- 🎯 I'm focused on delivering **impactful and scalable solutions**
-- 💬 Ask me about **MERN Stack, Web Development, or Software Architecture**
+- 🚀 Currently working on **Next.js and React** projects
+- 🌐 Building a **tourism website** with modern tech stack
+- 🎯 Exploring **Next.js** for full-stack development
+- 💡 Solving problems on **Codeforces** and **LeetCode** (C++ enthusiast)
+- 🎨 Experienced with **Figma** and **Pixso** for UI/UX design
+- 🗄️ Expert in **MySQL** (Workbench & XAMPP)
+- 🔮 Future learning goals: **Go/Golang** and **Machine Learning**
+- 💬 Ask me about **Web Development, C++, Problem Solving, or Design**
+- 📍 Based in **Dhaka, Bangladesh**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-### Backend
+### Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Database & Backend
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
-
-### Database
-<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-### Other Skills
+### Design & Tools
 <p>
-  <img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Responsive Design"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+</p>
+
+### Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </p>
 
 </div>
 
 ---
 
-## 🎯 What I Do
-
-- ✨ Develop professional **e-commerce sites** and **full-stack applications** using the MERN stack
-- 🧩 Tackle **coding challenges** on platforms like LeetCode to enhance problem-solving skills
-- 📚 Continuously learn and explore new technologies such as **Golang** and **Machine Learning**
-- 🔐 Implement robust **authentication & authorization** systems
-- 🌐 Build **RESTful APIs** and integrate third-party services
-- 📱 Create **responsive and user-friendly** web interfaces
-
----
-
-## 🚀 Future Goals
-
-- 🎓 Master **Golang** for backend development
-- 🤖 Gain proficiency in **Machine Learning** and apply it to real-world projects
-- 🌟 Contribute to **open-source projects** and collaborate with the developer community
-- 📈 Build innovative solutions that make a positive impact
-
----
-
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
   
-  I am always eager to collaborate on interesting projects and connect with fellow developers. Feel free to reach out!
+  <img src="https://github-readme-stats.vercel.app/api?username=Aziz-Ullah-Tarek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Ullah-Tarek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz-Ullah-Tarek&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aziz-Ullah-Tarek&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="49%"/>
   
 </div>
 
 ---
 
+## 📌 Pinned Projects
+
 <div align="center">
-  <sub>💼 Open to opportunities and collaborations</sub>
+
+<a href="https://github.com/Aziz-Ullah-Tarek/tourism-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=tourism-website&theme=tokyonight&hide_border=true" alt="Tourism Website"/>
+</a>
+
+<a href="https://github.com/Aziz-Ullah-Tarek/e-commerce-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=e-commerce-platform&theme=tokyonight&hide_border=true" alt="E-Commerce Platform"/>
+</a>
+
+<a href="https://github.com/Aziz-Ullah-Tarek/problem-solving">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=problem-solving&theme=tokyonight&hide_border=true" alt="Problem Solving"/>
+</a>
+
 </div>
 
-I am a passionate MERN stack developer with a strong foundation in building scalable and professional web applications. My journey in software development is driven by a desire to solve complex problems and deliver impactful solutions. Currently, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and have hands-on experience creating robust e-commerce platforms.
-
-## Skills
-
-- **Languages & Frameworks:** JavaScript, React, Node.js, Express.js, MongoDB
-- **Web Development:** Responsive design, RESTful APIs, Authentication & Authorization
-- **Problem Solving:** Active problem solver on LeetCode
-- **Other Interests:** Exploring Golang and Machine Learning for future projects
-
-## What I Do
-
-- Develop professional e-commerce sites and full-stack applications using MERN
-- Tackle coding challenges on platforms like LeetCode to sharpen my analytical skills
-- Continuously learn new technologies, such as Golang and machine learning, to expand my expertise
-
-## Future Goals
-
-- Master Golang for backend development
-- Gain proficiency in machine learning and apply it to real-world projects
-
-<!--
-## Featured Projects
-
-[Optional: Add links to your top GitHub repositories or portfolio projects here]
--->
-
-<!--
-## Connect with Me
-
-[Optional: Add your LinkedIn, Twitter, portfolio, or LeetCode profile links here]
--->
+> **Note:** These cards will automatically display your actual pinned repositories once they exist in your GitHub account. Make sure to pin your best projects from your profile!
 
 ---
 
-Thank you for visiting my profile! I am always eager to collaborate on interesting projects and connect with fellow developers.## Hi there 👋
+## 🌐 Connect with Me
 
-<!--
-**Aziz-Ullah-Tarek/Aziz-Ullah-Tarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://github.com/Aziz-Ullah-Tarek" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/aziz-ullah-tarek" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/share/1Lp9tSioyt/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:azizullaht2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://leetcode.com/Aziz-Ullah-Tarek" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://codeforces.com/profile/Aziz-Ullah-Tarek" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  <p>
+    📧 <strong>Email:</strong> azizullaht2002@gmail.com<br/>
+    📍 <strong>Location:</strong> Dhaka, Bangladesh
+  </p>
+</div>
+
+---
+
+## 🎯 What Drives Me
+
+I believe in the power of technology to solve real-world problems. Whether it's building intuitive web applications, solving complex algorithmic challenges, or designing beautiful user interfaces, I approach every project with passion and dedication. My goal is to create solutions that not only work efficiently but also provide exceptional user experiences.
+
+---
+
+<div align="center">
+  
+  ### 💼 Open to Opportunities
+  
+  I'm actively seeking opportunities to contribute to innovative projects and grow as a developer. If you're looking for someone who's passionate about technology and eager to make an impact, let's connect!
+  
+  <br/>
+  
+  ![Snake animation](https://github.com/Aziz-Ullah-Tarek/Aziz-Ullah-Tarek/blob/output/github-contribution-grid-snake.svg)
+  
+  <br/>
+  
+  **Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀**
+  
+</div>
