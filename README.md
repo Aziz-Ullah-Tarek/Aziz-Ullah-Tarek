@@ -103,25 +103,112 @@ I'm a passionate **problem solver** and **web developer** from **Dhaka, Banglade
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
+
+### 🎓 CSE JNU Portal - Department Management System
+
+A comprehensive department management platform for the Computer Science & Engineering department at Jagannath University, streamlining academic operations and communication.
+
+**🔗 Links:**
+- 🌐 **Live Demo:** [Coming Soon]
+- 💻 **Client Repository:** [CSEJnU_Portal-Client](https://github.com/Aziz-Ullah-Tarek/CSEJnU_Portal-Client)
+- ⚙️ **Server Repository:** [CSEJNU_Portal-Server](https://github.com/Aziz-Ullah-Tarek/CSEJNU_Portal-Server)
+
+**🛠️ Tech Stack:**
+- **Frontend:** React.js, Tailwind CSS, React Router, Axios
+- **Backend:** Node.js, Express.js, MongoDB, JWT Authentication
+- **Tools:** REST APIs, Mongoose ODM
+
+**✨ Key Features:**
+- 👥 User authentication and role-based access control (Admin, Faculty, Student)
+- 📚 Course and curriculum management system
+- 📝 Notice board and announcement distribution
+- 📊 Student performance tracking and analytics
+- 📅 Class schedule and routine management
+- 📄 Digital document management
+- 💬 Real-time notifications and updates
+
+**📸 UI Preview:**
+> ![Screenshot Placeholder](https://via.placeholder.com/800x400/1a1b27/58a6ff?text=CSE+JNU+Portal+Dashboard)
+
+**🚀 Local Setup:**
+```bash
+# Clone repositories
+git clone https://github.com/Aziz-Ullah-Tarek/CSEJnU_Portal-Client.git
+git clone https://github.com/Aziz-Ullah-Tarek/CSEJNU_Portal-Server.git
+
+# Client Setup
+cd CSEJnU_Portal-Client
+npm install
+npm run dev
+
+# Server Setup
+cd CSEJNU_Portal-Server
+npm install
+# Configure .env file with MongoDB URI and JWT secret
+npm start
+```
+
+---
+
+### 🏡 HomeNest - Real Estate Platform
+
+A modern real estate marketplace that connects property buyers, sellers, and renters, offering seamless property browsing and transaction management.
+
+**🔗 Links:**
+- 🌐 **Live Demo:** [Coming Soon]
+- 💻 **Client Repository:** [HomeNest-Client](https://github.com/Aziz-Ullah-Tarek/HomeNest-Client)
+- ⚙️ **Server Repository:** [HomeNest-Server](https://github.com/Aziz-Ullah-Tarek/HomeNest-Server)
+
+**🛠️ Tech Stack:**
+- **Frontend:** React.js, Tailwind CSS, React Query, React Hook Form
+- **Backend:** Node.js, Express.js, MongoDB, Cloudinary (Image Storage)
+- **Authentication:** Firebase Auth, JWT
+- **Tools:** REST APIs, Axios, Mongoose
+
+**✨ Key Features:**
+- 🏠 Advanced property search with filters (location, price, type, amenities)
+- 🔐 Secure user authentication and authorization
+- 📝 Property listing creation with image uploads
+- 💰 Price negotiation and inquiry system
+- ❤️ Wishlist and favorites management
+- 🗺️ Interactive property location maps
+- 📱 Responsive design for all devices
+- 👤 User profile and dashboard management
+- 📧 Email notifications for inquiries
+- 🔍 Smart search suggestions
+
+**📸 UI Preview:**
+> ![Screenshot Placeholder](https://via.placeholder.com/800x400/1a1b27/58a6ff?text=HomeNest+Property+Listings)
+
+**🚀 Local Setup:**
+```bash
+# Clone repositories
+git clone https://github.com/Aziz-Ullah-Tarek/HomeNest-Client.git
+git clone https://github.com/Aziz-Ullah-Tarek/HomeNest-Server.git
+
+# Client Setup
+cd HomeNest-Client
+npm install
+# Configure .env file with API URL and Firebase config
+npm run dev
+
+# Server Setup
+cd HomeNest-Server
+npm install
+# Configure .env file with MongoDB URI, Cloudinary credentials
+npm start
+```
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Aziz-Ullah-Tarek/tourism-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=tourism-website&theme=tokyonight&hide_border=true" alt="Tourism Website"/>
-</a>
+### 🌟 More Projects Coming Soon!
 
-<a href="https://github.com/Aziz-Ullah-Tarek/e-commerce-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=e-commerce-platform&theme=tokyonight&hide_border=true" alt="E-Commerce Platform"/>
-</a>
-
-<a href="https://github.com/Aziz-Ullah-Tarek/problem-solving">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aziz-Ullah-Tarek&repo=problem-solving&theme=tokyonight&hide_border=true" alt="Problem Solving"/>
-</a>
+I'm constantly working on exciting new projects. Check back regularly or explore my [GitHub repositories](https://github.com/Aziz-Ullah-Tarek?tab=repositories) for more!
 
 </div>
-
-> **Note:** These cards will automatically display your actual pinned repositories once they exist in your GitHub account. Make sure to pin your best projects from your profile!
 
 ---
 
@@ -129,17 +216,40 @@ I'm a passionate **problem solver** and **web developer** from **Dhaka, Banglade
 
 <div align="center">
 
-<a href="https://github.com/Aziz-Ullah-Tarek" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/aziz-ullah-tarek" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+### 💼 Professional Contact
+
+<p>
+  I'm always open to discussing new opportunities, collaborations, and innovative projects.<br/>
+  Feel free to reach out through any of the platforms below.
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="mailto:azizullaht2002@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br/>
+        <strong>azizullaht2002@gmail.com</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/aziz-ullah-tarek" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br/>
+        <strong>Aziz Ullah Tarek</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Aziz-Ullah-Tarek" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br/>
+        <strong>@Aziz-Ullah-Tarek</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🔗 Additional Profiles
+
 <a href="https://www.facebook.com/share/1Lp9tSioyt/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="mailto:azizullaht2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://leetcode.com/Aziz-Ullah-Tarek" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -148,13 +258,14 @@ I'm a passionate **problem solver** and **web developer** from **Dhaka, Banglade
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <p>
-    📧 <strong>Email:</strong> azizullaht2002@gmail.com<br/>
-    📍 <strong>Location:</strong> Dhaka, Bangladesh
-  </p>
+<p>
+  📍 <strong>Location:</strong> Dhaka, Bangladesh<br/>
+  📧 <strong>Response Time:</strong> Within 24 hours<br/>
+  💼 <strong>Status:</strong> Open to opportunities
+</p>
+
 </div>
 
 ---
